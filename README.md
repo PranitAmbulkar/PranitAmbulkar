@@ -1,5 +1,5 @@
     👋 Hi, I’m Pranit Ambulkar from Devgad (Maharashtra), India.
-    ✍️ I did an B.E in supply MEchanical Engineering from Shivaji University, Kolhapur.
+    ✍️ I did an B.E in Mechanical Engineering from Shivaji University, Kolhapur.
     🏢 I have experience of about 1.3years at Tata Consultancy Services as Software Developer.
     📊 I am proficient in creating clear and concise reports and dashboards, using BI tools like Tableau, and Excel.
     👀 I'm passionate about Data Science, Analytic Fields, Machine Learning, and working on projects related to futuristic technologies.
