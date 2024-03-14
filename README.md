@@ -12,7 +12,7 @@
 
 **Languages and Tools**:
 
-<img src="https://banner2.cleanpng.com/20180412/kye/kisspng-python-programming-language-computer-programming-language-5acfdc3636bac7.8891188615235717662242.jpg" alt="Alt text" width="50" height="50">  <img src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-logo-png-images-are-download-crazypng-21.png" alt="Alt text" width="50" height="50">
+<img src="https://banner2.cleanpng.com/20180412/kye/kisspng-python-programming-language-computer-programming-language-5acfdc3636bac7.8891188615235717662242.jpg" alt="Alt text" width="50" height="50">  <img src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-logo-png-images-are-download-crazypng-21.png" alt="Alt text" width="50" height="50"> <img src="https://miro.medium.com/v2/resize:fit:1400/1*3GbLagVDPY9QKjjgB_Tfqw.png" alt="Alt text" width="50" height="50"> 
 
 
 
