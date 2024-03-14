@@ -2,7 +2,7 @@
     
     
     
-   ![Alt text](https://cevgroup.org/wp-content/uploads/2019/11/IMG-20190808-WA0091-1.jpg)
+   ![Alt text](https://drive.google.com/file/d/1Qt_pjV5MRzZKp6ns1D0aQSSj03pEBjUK/view?usp=sharing)
 
     
     
