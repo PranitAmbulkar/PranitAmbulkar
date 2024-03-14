@@ -1,12 +1,4 @@
-
-    
-    
-    
-   !(<a href="https://ibb.co/MkDvQF2"><img src="https://i.ibb.co/k2g7vNH/Your-paragraph-text-1.png" alt="Your-paragraph-text-1" border="0"></a>)
-
-    
-    
-    
+<a href="https://ibb.co/MkDvQF2"><img src="https://i.ibb.co/k2g7vNH/Your-paragraph-text-1.png" alt="Your-paragraph-text-1" border="0"></a>
     👋 Hi, I’m Pranit Ambulkar from Devgad (Maharashtra), India.
     ✍️ I did an B.E in Mechanical Engineering from Shivaji University, Kolhapur.
     🏢 I have experience of about 1.3years at Tata Consultancy Services as Software Developer.
