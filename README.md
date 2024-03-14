@@ -2,7 +2,7 @@
     
     
     
-    ![GitHub Logo]([https://example.com/image.png](https://cevgroup.org/wp-content/uploads/2019/11/IMG-20190808-WA0091-1.jpg))
+   ![Alt text](https://cevgroup.org/wp-content/uploads/2019/11/IMG-20190808-WA0091-1.jpg)
 
     
     
