@@ -1,4 +1,4 @@
-!(https://media.licdn.com/dms/image/C4D12AQEndrNoheB8Vw/article-cover_image-shrink_600_2000/0/1539607981342?e=2147483647&v=beta&t=srmX4mJybnOOwy_oiu6i2IxhvfmBqp4HHrjMyK_tseo)
+![ALT TEXT](https://media.licdn.com/dms/image/C4D12AQEndrNoheB8Vw/article-cover_image-shrink_600_2000/0/1539607981342?e=2147483647&v=beta&t=srmX4mJybnOOwy_oiu6i2IxhvfmBqp4HHrjMyK_tseo)
     
 👋 Hi, I’m Pranit Ambulkar from Devgad (Maharashtra), India.
 ✍️ I did an B.E in Mechanical Engineering from Shivaji University, Kolhapur.
