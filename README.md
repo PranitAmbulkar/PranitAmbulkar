@@ -2,7 +2,7 @@
     
     
     
-    ![Your paragraph text(1)](https://github.com/PranitAmbulkar/PranitAmbulkar/assets/87164937/a5453828-fd99-4964-946f-87326a07bef2)
+    ![GitHub Logo]([https://example.com/image.png](https://cevgroup.org/wp-content/uploads/2019/11/IMG-20190808-WA0091-1.jpg))
 
     
     
