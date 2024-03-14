@@ -12,7 +12,7 @@
 
 **Languages and Tools**:
 
-<img src="https://banner2.cleanpng.com/20180412/kye/kisspng-python-programming-language-computer-programming-language-5acfdc3636bac7.8891188615235717662242.jpg" alt="Alt text" width="150" height="150">
+<img src="https://banner2.cleanpng.com/20180412/kye/kisspng-python-programming-language-computer-programming-language-5acfdc3636bac7.8891188615235717662242.jpg" alt="Alt text" width="75" height="75">
 
 
 
