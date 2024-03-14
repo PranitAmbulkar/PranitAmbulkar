@@ -11,7 +11,8 @@
     🎮 In my free time, I enjoy learning new things, loved playing chess a lot.
 
 **Languages and Tools**:
-<img src="https://banner2.cleanpng.com/20180412/kye/kisspng-python-programming-language-computer-programming-language-5acfdc3636bac7.8891188615235717662242.jpg" alt="Alt text" width="200" height="100">
+
+<img src="https://banner2.cleanpng.com/20180412/kye/kisspng-python-programming-language-computer-programming-language-5acfdc3636bac7.8891188615235717662242.jpg" alt="Alt text" width="150" height="150">
 
 
 
