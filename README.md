@@ -1,3 +1,12 @@
+
+    
+    
+    
+    ![Your paragraph text(1)](https://github.com/PranitAmbulkar/PranitAmbulkar/assets/87164937/a5453828-fd99-4964-946f-87326a07bef2)
+
+    
+    
+    
     👋 Hi, I’m Pranit Ambulkar from Devgad (Maharashtra), India.
     ✍️ I did an B.E in Mechanical Engineering from Shivaji University, Kolhapur.
     🏢 I have experience of about 1.3years at Tata Consultancy Services as Software Developer.
