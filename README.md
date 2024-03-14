@@ -16,7 +16,7 @@
 
 **Past Experience**
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Tata_Consultancy_Services_Logo.svg/2560px-Tata_Consultancy_Services_Logo.svg.png" alt="Alt text" width="400" height="200">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Tata_Consultancy_Services_Logo.svg/2560px-Tata_Consultancy_Services_Logo.svg.png" alt="Alt text" width="300" height="150">
 
     👨🏻‍💼Led the initiation, creation & ongoing management of SQL-based applications, queries & stored procedures, engaging closely with stakeholders to discern data requirements and refine database architectures, culminating in a noteworthy 40% surge in operational efficiency.
     🏆Diligently scrutinized & addressed database performance bottlenecks, leading to a commendable 19% drop in query response time and an overall improvement in system efficacy.
