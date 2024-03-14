@@ -1,4 +1,4 @@
-![ALT TEXT]([https://media.licdn.com/dms/image/C4D12AQEndrNoheB8Vw/article-cover_image-shrink_600_2000/0/1539607981342?e=2147483647&v=beta&t=srmX4mJybnOOwy_oiu6i2IxhvfmBqp4HHrjMyK_tseo](https://assets-global.website-files.com/646f70acec03476ddfb18592/65133ce529080497c0a886ca_Screenshot%202023-09-14%20at%2012.11.50%20AM.png)](https://www.intelligencepartner.com/wp-content/uploads/2021/04/tendencias-analitica-de-datos-1-1024x455.jpg))
+![ALT TEXT](https://www.intelligencepartner.com/wp-content/uploads/2021/04/tendencias-analitica-de-datos-1-1024x455.jpg)
     
 👋 Hi, I’m Pranit Ambulkar from Devgad (Maharashtra), India.
 ✍️ I did an B.E in Mechanical Engineering from Shivaji University, Kolhapur.
