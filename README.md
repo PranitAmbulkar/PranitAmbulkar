@@ -2,7 +2,7 @@
     
     
     
-   ![Alt text](<a href="https://ibb.co/MkDvQF2"><img src="https://i.ibb.co/k2g7vNH/Your-paragraph-text-1.png" alt="Your-paragraph-text-1" border="0"></a>)
+   !(<a href="https://ibb.co/MkDvQF2"><img src="https://i.ibb.co/k2g7vNH/Your-paragraph-text-1.png" alt="Your-paragraph-text-1" border="0"></a>)
 
     
     
