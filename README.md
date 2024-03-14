@@ -10,6 +10,12 @@
     📫 Feel free to reach out to me on LinkedIn anytime you want. Just click on my bio.
     🎮 In my free time, I enjoy learning new things, loved playing chess a lot.
 
+*Languages and Tools*:
+
+
+
+
+
 Open for any type of suggestions
 
 Hobbies: Advance Level Chess Player 
