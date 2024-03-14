@@ -1,4 +1,4 @@
-![ALT TEXT](https://www.intelligencepartner.com/wp-content/uploads/2021/04/tendencias-analitica-de-datos-1-1024x455.jpg)
+![ALT TEXT]([https://www.intelligencepartner.com/wp-content/uploads/2021/04/tendencias-analitica-de-datos-1-1024x455.jpg](https://www.ccu.edu/_files/images/cags/programs/data-analytics-degree.jpg))
     
 👋 Hi, I’m Pranit Ambulkar from Devgad (Maharashtra), India.
 ✍️ I did an B.E in Mechanical Engineering from Shivaji University, Kolhapur.
