@@ -27,7 +27,7 @@
 Open for any type of suggestions
 
 Hobbies: Advance Level Chess Player 
-chess.com ID : pranit18 | Feel free to play anytime! Thanks
+chess.com ID : chesspranit | Feel free to play anytime! Thanks
 
 #Embracing Change with Open Arms :)
 #Flexibility: Navigating the Winds of Change 🍃
