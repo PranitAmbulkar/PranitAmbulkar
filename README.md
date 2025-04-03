@@ -1,3 +1,4 @@
+![ALT TEXT](https://www.ccu.edu/_files/images/cags/programs/data-analytics-degree.jpg)
 ## 👋 Hi, I’m Pranit Ambulkar from Devgad (Maharashtra), India.
 
 ### ✍️ About Me:
